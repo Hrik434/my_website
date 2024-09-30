@@ -1,0 +1,43 @@
+/* styles.css */
+body {
+  font-family: 'Verdana', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e8f5e9; /* Light green background */
+  color: #333;
+}
+
+header {
+  background: #2e7d32; /* Dark green for header */
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.nav-tabs {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #388e3c; /* Medium green navigation */
+  padding: 10px 0;
+  margin: 0;
+}
+
+.nav-tabs li {
+  margin: 0 20px;
+}
+
+.nav-tabs a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+.nav-tabs a:hover {
+ 
